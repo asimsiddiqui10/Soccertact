@@ -90,3 +90,4 @@ def fetch_player_from_api(player_id):
         print(f"Failed to fetch player with ID {player_id}: {e}")
         return None
 
+# Documentation updates
