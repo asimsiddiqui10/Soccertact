@@ -1,0 +1,2749 @@
+[
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2013,
+        "count_players": 33,
+        "total_guaranteed_compensation": 3913165.78,
+        "avg_guaranteed_compensation": 118580.7812,
+        "median_guaranteed_compensation": 90000,
+        "std_dev_guaranteed_compensation": 111206.3263
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2014,
+        "count_players": 32,
+        "total_guaranteed_compensation": 4641171.87,
+        "avg_guaranteed_compensation": 145036.6209,
+        "median_guaranteed_compensation": 126392.5,
+        "std_dev_guaranteed_compensation": 124637.1706
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2015,
+        "count_players": 29,
+        "total_guaranteed_compensation": 5332505.76,
+        "avg_guaranteed_compensation": 183879.509,
+        "median_guaranteed_compensation": 100000,
+        "std_dev_guaranteed_compensation": 249517.6447
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 7479325.25,
+        "avg_guaranteed_compensation": 233728.9141,
+        "median_guaranteed_compensation": 147000,
+        "std_dev_guaranteed_compensation": 273979.4729
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2017,
+        "count_players": 31,
+        "total_guaranteed_compensation": 8567579.47,
+        "avg_guaranteed_compensation": 276373.5313,
+        "median_guaranteed_compensation": 175992,
+        "std_dev_guaranteed_compensation": 294726.8332
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 8721752.57,
+        "avg_guaranteed_compensation": 272554.7678,
+        "median_guaranteed_compensation": 168999.975,
+        "std_dev_guaranteed_compensation": 291774.146
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2019,
+        "count_players": 31,
+        "total_guaranteed_compensation": 10619980.53,
+        "avg_guaranteed_compensation": 342580.0171,
+        "median_guaranteed_compensation": 235000.05,
+        "std_dev_guaranteed_compensation": 326541.6594
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2020,
+        "count_players": 29,
+        "total_guaranteed_compensation": 10936092,
+        "avg_guaranteed_compensation": 377106.6207,
+        "median_guaranteed_compensation": 225000,
+        "std_dev_guaranteed_compensation": 407947.7043
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2021,
+        "count_players": 32,
+        "total_guaranteed_compensation": 11604595,
+        "avg_guaranteed_compensation": 362643.5938,
+        "median_guaranteed_compensation": 245000,
+        "std_dev_guaranteed_compensation": 320097.2052
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 12928459,
+        "avg_guaranteed_compensation": 391771.4848,
+        "median_guaranteed_compensation": 280000,
+        "std_dev_guaranteed_compensation": 351988.0949
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2023,
+        "count_players": 33,
+        "total_guaranteed_compensation": 14600008,
+        "avg_guaranteed_compensation": 442424.4848,
+        "median_guaranteed_compensation": 250000,
+        "std_dev_guaranteed_compensation": 429132.272
+    },
+    {
+        "team_id": "0KPqjA456v",
+        "season_name": 2024,
+        "count_players": 34,
+        "total_guaranteed_compensation": 14738128,
+        "avg_guaranteed_compensation": 433474.3529,
+        "median_guaranteed_compensation": 251500,
+        "std_dev_guaranteed_compensation": 479884.6721
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 3760218.14,
+        "avg_guaranteed_compensation": 117506.8169,
+        "median_guaranteed_compensation": 97412.5,
+        "std_dev_guaranteed_compensation": 85179.8164
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 7473823.74,
+        "avg_guaranteed_compensation": 226479.5073,
+        "median_guaranteed_compensation": 122375,
+        "std_dev_guaranteed_compensation": 551365.2901
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2015,
+        "count_players": 27,
+        "total_guaranteed_compensation": 6566089.61,
+        "avg_guaranteed_compensation": 243188.5041,
+        "median_guaranteed_compensation": 101666.67,
+        "std_dev_guaranteed_compensation": 571709.9179
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2016,
+        "count_players": 28,
+        "total_guaranteed_compensation": 6043178.92,
+        "avg_guaranteed_compensation": 215827.8186,
+        "median_guaranteed_compensation": 116168.67,
+        "std_dev_guaranteed_compensation": 243325.9626
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2017,
+        "count_players": 26,
+        "total_guaranteed_compensation": 7496217.04,
+        "avg_guaranteed_compensation": 288316.04,
+        "median_guaranteed_compensation": 152000,
+        "std_dev_guaranteed_compensation": 280626.5942
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2018,
+        "count_players": 28,
+        "total_guaranteed_compensation": 8479336.23,
+        "avg_guaranteed_compensation": 302833.4368,
+        "median_guaranteed_compensation": 158172.915,
+        "std_dev_guaranteed_compensation": 329773.745
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2019,
+        "count_players": 27,
+        "total_guaranteed_compensation": 11083217.28,
+        "avg_guaranteed_compensation": 410489.5289,
+        "median_guaranteed_compensation": 205000.05,
+        "std_dev_guaranteed_compensation": 569776.7585
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2020,
+        "count_players": 30,
+        "total_guaranteed_compensation": 12651645,
+        "avg_guaranteed_compensation": 421721.5,
+        "median_guaranteed_compensation": 207948,
+        "std_dev_guaranteed_compensation": 582236.8745
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2021,
+        "count_players": 27,
+        "total_guaranteed_compensation": 11681240,
+        "avg_guaranteed_compensation": 432638.5185,
+        "median_guaranteed_compensation": 215896,
+        "std_dev_guaranteed_compensation": 670838.6716
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2022,
+        "count_players": 36,
+        "total_guaranteed_compensation": 21652958,
+        "avg_guaranteed_compensation": 601471.0556,
+        "median_guaranteed_compensation": 232500,
+        "std_dev_guaranteed_compensation": 970844.5892
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2023,
+        "count_players": 36,
+        "total_guaranteed_compensation": 21068550,
+        "avg_guaranteed_compensation": 585237.5,
+        "median_guaranteed_compensation": 381906.5,
+        "std_dev_guaranteed_compensation": 833079.4901
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "season_name": 2024,
+        "count_players": 36,
+        "total_guaranteed_compensation": 21066528,
+        "avg_guaranteed_compensation": 585181.3333,
+        "median_guaranteed_compensation": 428125,
+        "std_dev_guaranteed_compensation": 774107.0887
+    },
+    {
+        "team_id": "4wM42l4qjB",
+        "season_name": 2013,
+        "count_players": 37,
+        "total_guaranteed_compensation": 3318337.12,
+        "avg_guaranteed_compensation": 89684.787,
+        "median_guaranteed_compensation": 72500,
+        "std_dev_guaranteed_compensation": 52702.6496
+    },
+    {
+        "team_id": "4wM42l4qjB",
+        "season_name": 2014,
+        "count_players": 38,
+        "total_guaranteed_compensation": 4542923.71,
+        "avg_guaranteed_compensation": 119550.6239,
+        "median_guaranteed_compensation": 92500,
+        "std_dev_guaranteed_compensation": 100794.2698
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2013,
+        "count_players": 33,
+        "total_guaranteed_compensation": 4090962,
+        "avg_guaranteed_compensation": 123968.5455,
+        "median_guaranteed_compensation": 82500,
+        "std_dev_guaranteed_compensation": 103853.9107
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2014,
+        "count_players": 32,
+        "total_guaranteed_compensation": 4524927.97,
+        "avg_guaranteed_compensation": 141403.9991,
+        "median_guaranteed_compensation": 101247,
+        "std_dev_guaranteed_compensation": 124096.9646
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2015,
+        "count_players": 34,
+        "total_guaranteed_compensation": 6368901.12,
+        "avg_guaranteed_compensation": 187320.6212,
+        "median_guaranteed_compensation": 124000,
+        "std_dev_guaranteed_compensation": 172184.0417
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 7228559.47,
+        "avg_guaranteed_compensation": 225892.4834,
+        "median_guaranteed_compensation": 126833.335,
+        "std_dev_guaranteed_compensation": 253281.648
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2017,
+        "count_players": 32,
+        "total_guaranteed_compensation": 7178431.72,
+        "avg_guaranteed_compensation": 224325.9912,
+        "median_guaranteed_compensation": 132083.315,
+        "std_dev_guaranteed_compensation": 255067.9687
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2018,
+        "count_players": 30,
+        "total_guaranteed_compensation": 8983487.69,
+        "avg_guaranteed_compensation": 299449.5897,
+        "median_guaranteed_compensation": 114931.25,
+        "std_dev_guaranteed_compensation": 415537.3546
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2019,
+        "count_players": 30,
+        "total_guaranteed_compensation": 10003163.24,
+        "avg_guaranteed_compensation": 333438.7747,
+        "median_guaranteed_compensation": 161045.81,
+        "std_dev_guaranteed_compensation": 455811.0116
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2020,
+        "count_players": 26,
+        "total_guaranteed_compensation": 9364543,
+        "avg_guaranteed_compensation": 360174.7308,
+        "median_guaranteed_compensation": 200000,
+        "std_dev_guaranteed_compensation": 366311.6032
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2021,
+        "count_players": 34,
+        "total_guaranteed_compensation": 10484622,
+        "avg_guaranteed_compensation": 308371.2353,
+        "median_guaranteed_compensation": 167778,
+        "std_dev_guaranteed_compensation": 326422.435
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2022,
+        "count_players": 32,
+        "total_guaranteed_compensation": 12208843,
+        "avg_guaranteed_compensation": 381526.3438,
+        "median_guaranteed_compensation": 207778,
+        "std_dev_guaranteed_compensation": 387356.1099
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2023,
+        "count_players": 30,
+        "total_guaranteed_compensation": 14174297,
+        "avg_guaranteed_compensation": 472476.5667,
+        "median_guaranteed_compensation": 243500,
+        "std_dev_guaranteed_compensation": 461881.32
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "season_name": 2024,
+        "count_players": 38,
+        "total_guaranteed_compensation": 16049504,
+        "avg_guaranteed_compensation": 422355.3684,
+        "median_guaranteed_compensation": 244291.5,
+        "std_dev_guaranteed_compensation": 473642.8642
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 3979882.84,
+        "avg_guaranteed_compensation": 124371.3387,
+        "median_guaranteed_compensation": 78604.165,
+        "std_dev_guaranteed_compensation": 104092.2062
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2014,
+        "count_players": 29,
+        "total_guaranteed_compensation": 4058630.86,
+        "avg_guaranteed_compensation": 139952.7883,
+        "median_guaranteed_compensation": 72000,
+        "std_dev_guaranteed_compensation": 115568.8173
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2015,
+        "count_players": 28,
+        "total_guaranteed_compensation": 5436920.11,
+        "avg_guaranteed_compensation": 194175.7182,
+        "median_guaranteed_compensation": 106068.335,
+        "std_dev_guaranteed_compensation": 228432.1193
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2016,
+        "count_players": 29,
+        "total_guaranteed_compensation": 6246490.35,
+        "avg_guaranteed_compensation": 215396.219,
+        "median_guaranteed_compensation": 111000,
+        "std_dev_guaranteed_compensation": 288171.6716
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2017,
+        "count_players": 32,
+        "total_guaranteed_compensation": 9136755.4,
+        "avg_guaranteed_compensation": 285523.6063,
+        "median_guaranteed_compensation": 154115.665,
+        "std_dev_guaranteed_compensation": 383356.4293
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 9294915.52,
+        "avg_guaranteed_compensation": 290466.11,
+        "median_guaranteed_compensation": 187125,
+        "std_dev_guaranteed_compensation": 299631.2392
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2019,
+        "count_players": 32,
+        "total_guaranteed_compensation": 11285621.62,
+        "avg_guaranteed_compensation": 352675.6756,
+        "median_guaranteed_compensation": 187416.5,
+        "std_dev_guaranteed_compensation": 426655.7976
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2020,
+        "count_players": 30,
+        "total_guaranteed_compensation": 10095998,
+        "avg_guaranteed_compensation": 336533.2667,
+        "median_guaranteed_compensation": 170000,
+        "std_dev_guaranteed_compensation": 444386.6865
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2021,
+        "count_players": 33,
+        "total_guaranteed_compensation": 12659495,
+        "avg_guaranteed_compensation": 383621.0606,
+        "median_guaranteed_compensation": 153458,
+        "std_dev_guaranteed_compensation": 488730.6707
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2022,
+        "count_players": 41,
+        "total_guaranteed_compensation": 15493531,
+        "avg_guaranteed_compensation": 377891,
+        "median_guaranteed_compensation": 168458,
+        "std_dev_guaranteed_compensation": 459217.9011
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2023,
+        "count_players": 38,
+        "total_guaranteed_compensation": 14974195,
+        "avg_guaranteed_compensation": 394057.7632,
+        "median_guaranteed_compensation": 195950,
+        "std_dev_guaranteed_compensation": 487378.3912
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "season_name": 2024,
+        "count_players": 45,
+        "total_guaranteed_compensation": 16960200,
+        "avg_guaranteed_compensation": 376893.3333,
+        "median_guaranteed_compensation": 209667,
+        "std_dev_guaranteed_compensation": 448464.9902
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 11374456.16,
+        "avg_guaranteed_compensation": 355451.755,
+        "median_guaranteed_compensation": 86249.98,
+        "std_dev_guaranteed_compensation": 960543.0017
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2014,
+        "count_players": 30,
+        "total_guaranteed_compensation": 11509474.43,
+        "avg_guaranteed_compensation": 383649.1477,
+        "median_guaranteed_compensation": 115000,
+        "std_dev_guaranteed_compensation": 988724.2214
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2015,
+        "count_players": 28,
+        "total_guaranteed_compensation": 4229936.39,
+        "avg_guaranteed_compensation": 151069.1568,
+        "median_guaranteed_compensation": 92606.19,
+        "std_dev_guaranteed_compensation": 147261.3166
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2016,
+        "count_players": 30,
+        "total_guaranteed_compensation": 6557204.24,
+        "avg_guaranteed_compensation": 218573.4747,
+        "median_guaranteed_compensation": 132750,
+        "std_dev_guaranteed_compensation": 195006.6992
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2017,
+        "count_players": 33,
+        "total_guaranteed_compensation": 7766762.12,
+        "avg_guaranteed_compensation": 235356.4279,
+        "median_guaranteed_compensation": 105008,
+        "std_dev_guaranteed_compensation": 307455.4327
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 8134914.08,
+        "avg_guaranteed_compensation": 254216.065,
+        "median_guaranteed_compensation": 114967.5,
+        "std_dev_guaranteed_compensation": 339124.1541
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2019,
+        "count_players": 31,
+        "total_guaranteed_compensation": 9081596.81,
+        "avg_guaranteed_compensation": 292954.7358,
+        "median_guaranteed_compensation": 127750,
+        "std_dev_guaranteed_compensation": 324958.9173
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2020,
+        "count_players": 28,
+        "total_guaranteed_compensation": 8300262,
+        "avg_guaranteed_compensation": 296437.9286,
+        "median_guaranteed_compensation": 238000,
+        "std_dev_guaranteed_compensation": 257150.3699
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2021,
+        "count_players": 35,
+        "total_guaranteed_compensation": 10689793,
+        "avg_guaranteed_compensation": 305422.6571,
+        "median_guaranteed_compensation": 251250,
+        "std_dev_guaranteed_compensation": 250980.0465
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2022,
+        "count_players": 36,
+        "total_guaranteed_compensation": 12668919,
+        "avg_guaranteed_compensation": 351914.4167,
+        "median_guaranteed_compensation": 258958.5,
+        "std_dev_guaranteed_compensation": 362515.5134
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2023,
+        "count_players": 33,
+        "total_guaranteed_compensation": 11705027,
+        "avg_guaranteed_compensation": 354697.7879,
+        "median_guaranteed_compensation": 206625,
+        "std_dev_guaranteed_compensation": 365892.6017
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "season_name": 2024,
+        "count_players": 32,
+        "total_guaranteed_compensation": 18632549,
+        "avg_guaranteed_compensation": 582267.1562,
+        "median_guaranteed_compensation": 322625,
+        "std_dev_guaranteed_compensation": 1060369.0237
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 5828957.58,
+        "avg_guaranteed_compensation": 182154.9244,
+        "median_guaranteed_compensation": 118312.5,
+        "std_dev_guaranteed_compensation": 331275.7581
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2014,
+        "count_players": 37,
+        "total_guaranteed_compensation": 7325651.04,
+        "avg_guaranteed_compensation": 197990.5686,
+        "median_guaranteed_compensation": 100000,
+        "std_dev_guaranteed_compensation": 417263.9978
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2015,
+        "count_players": 30,
+        "total_guaranteed_compensation": 6635953.59,
+        "avg_guaranteed_compensation": 221198.453,
+        "median_guaranteed_compensation": 116000,
+        "std_dev_guaranteed_compensation": 382058.9937
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 7274008.86,
+        "avg_guaranteed_compensation": 227312.7769,
+        "median_guaranteed_compensation": 116875,
+        "std_dev_guaranteed_compensation": 384636.7829
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2017,
+        "count_players": 31,
+        "total_guaranteed_compensation": 6746842.97,
+        "avg_guaranteed_compensation": 217640.0958,
+        "median_guaranteed_compensation": 128500.08,
+        "std_dev_guaranteed_compensation": 198169.5973
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2018,
+        "count_players": 35,
+        "total_guaranteed_compensation": 13408773.48,
+        "avg_guaranteed_compensation": 383107.8137,
+        "median_guaranteed_compensation": 150000,
+        "std_dev_guaranteed_compensation": 803128.5797
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2019,
+        "count_players": 34,
+        "total_guaranteed_compensation": 14348596.75,
+        "avg_guaranteed_compensation": 422017.5515,
+        "median_guaranteed_compensation": 144892.19,
+        "std_dev_guaranteed_compensation": 804361.7414
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2020,
+        "count_players": 30,
+        "total_guaranteed_compensation": 11687454,
+        "avg_guaranteed_compensation": 389581.8,
+        "median_guaranteed_compensation": 157650,
+        "std_dev_guaranteed_compensation": 660932.9264
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2021,
+        "count_players": 38,
+        "total_guaranteed_compensation": 13500594,
+        "avg_guaranteed_compensation": 355278.7895,
+        "median_guaranteed_compensation": 170150,
+        "std_dev_guaranteed_compensation": 542057.1192
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2022,
+        "count_players": 34,
+        "total_guaranteed_compensation": 12920267,
+        "avg_guaranteed_compensation": 380007.8529,
+        "median_guaranteed_compensation": 149166.5,
+        "std_dev_guaranteed_compensation": 553659.2498
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2023,
+        "count_players": 32,
+        "total_guaranteed_compensation": 11474537,
+        "avg_guaranteed_compensation": 358579.2812,
+        "median_guaranteed_compensation": 249077.5,
+        "std_dev_guaranteed_compensation": 360685.7096
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "season_name": 2024,
+        "count_players": 36,
+        "total_guaranteed_compensation": 13387068,
+        "avg_guaranteed_compensation": 371863,
+        "median_guaranteed_compensation": 277739.5,
+        "std_dev_guaranteed_compensation": 355980.358
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2013,
+        "count_players": 34,
+        "total_guaranteed_compensation": 4372406.22,
+        "avg_guaranteed_compensation": 128600.1829,
+        "median_guaranteed_compensation": 91325,
+        "std_dev_guaranteed_compensation": 123280.2027
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2014,
+        "count_players": 32,
+        "total_guaranteed_compensation": 4178583.24,
+        "avg_guaranteed_compensation": 130580.7263,
+        "median_guaranteed_compensation": 91149.165,
+        "std_dev_guaranteed_compensation": 119532.6041
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2015,
+        "count_players": 27,
+        "total_guaranteed_compensation": 4349763.85,
+        "avg_guaranteed_compensation": 161102.3648,
+        "median_guaranteed_compensation": 106479.83,
+        "std_dev_guaranteed_compensation": 124240.2365
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2016,
+        "count_players": 34,
+        "total_guaranteed_compensation": 6751749.13,
+        "avg_guaranteed_compensation": 198580.8568,
+        "median_guaranteed_compensation": 121314.915,
+        "std_dev_guaranteed_compensation": 176228.813
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2017,
+        "count_players": 34,
+        "total_guaranteed_compensation": 6310257.41,
+        "avg_guaranteed_compensation": 185595.8062,
+        "median_guaranteed_compensation": 121618.75,
+        "std_dev_guaranteed_compensation": 141783.2586
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2018,
+        "count_players": 30,
+        "total_guaranteed_compensation": 10069533.94,
+        "avg_guaranteed_compensation": 335651.1313,
+        "median_guaranteed_compensation": 139750,
+        "std_dev_guaranteed_compensation": 512749.0798
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2019,
+        "count_players": 30,
+        "total_guaranteed_compensation": 11661027.28,
+        "avg_guaranteed_compensation": 388700.9093,
+        "median_guaranteed_compensation": 184624.985,
+        "std_dev_guaranteed_compensation": 630615.4307
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2020,
+        "count_players": 26,
+        "total_guaranteed_compensation": 8816842,
+        "avg_guaranteed_compensation": 339109.3077,
+        "median_guaranteed_compensation": 189627,
+        "std_dev_guaranteed_compensation": 355597.9414
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2021,
+        "count_players": 32,
+        "total_guaranteed_compensation": 11506162,
+        "avg_guaranteed_compensation": 359567.5625,
+        "median_guaranteed_compensation": 166500,
+        "std_dev_guaranteed_compensation": 389135.9524
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2022,
+        "count_players": 40,
+        "total_guaranteed_compensation": 19639453,
+        "avg_guaranteed_compensation": 490986.325,
+        "median_guaranteed_compensation": 143559,
+        "std_dev_guaranteed_compensation": 747709.0762
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2023,
+        "count_players": 35,
+        "total_guaranteed_compensation": 21221507,
+        "avg_guaranteed_compensation": 606328.7714,
+        "median_guaranteed_compensation": 400000,
+        "std_dev_guaranteed_compensation": 820315.9295
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "season_name": 2024,
+        "count_players": 30,
+        "total_guaranteed_compensation": 17992939,
+        "avg_guaranteed_compensation": 599764.6333,
+        "median_guaranteed_compensation": 316150,
+        "std_dev_guaranteed_compensation": 897707.9023
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2017,
+        "count_players": 3,
+        "total_guaranteed_compensation": 218007.96,
+        "avg_guaranteed_compensation": 72669.32,
+        "median_guaranteed_compensation": 65004,
+        "std_dev_guaranteed_compensation": 24417.6762
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 15395802.63,
+        "avg_guaranteed_compensation": 481118.8322,
+        "median_guaranteed_compensation": 148750.04,
+        "std_dev_guaranteed_compensation": 1106713.2227
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2019,
+        "count_players": 31,
+        "total_guaranteed_compensation": 15851618.27,
+        "avg_guaranteed_compensation": 511342.5248,
+        "median_guaranteed_compensation": 177810.5,
+        "std_dev_guaranteed_compensation": 1127671.8941
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2020,
+        "count_players": 29,
+        "total_guaranteed_compensation": 13885165,
+        "avg_guaranteed_compensation": 478798.7931,
+        "median_guaranteed_compensation": 185000,
+        "std_dev_guaranteed_compensation": 1149493.5031
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2021,
+        "count_players": 36,
+        "total_guaranteed_compensation": 17274343,
+        "avg_guaranteed_compensation": 479842.8611,
+        "median_guaranteed_compensation": 183562.5,
+        "std_dev_guaranteed_compensation": 1045099.7839
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2022,
+        "count_players": 35,
+        "total_guaranteed_compensation": 21291536,
+        "avg_guaranteed_compensation": 608329.6,
+        "median_guaranteed_compensation": 403000,
+        "std_dev_guaranteed_compensation": 691385.9772
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2023,
+        "count_players": 35,
+        "total_guaranteed_compensation": 21610901,
+        "avg_guaranteed_compensation": 617454.3143,
+        "median_guaranteed_compensation": 450000,
+        "std_dev_guaranteed_compensation": 821500.4657
+    },
+    {
+        "team_id": "eVq3ya6MWO",
+        "season_name": 2024,
+        "count_players": 37,
+        "total_guaranteed_compensation": 23634223,
+        "avg_guaranteed_compensation": 638762.7838,
+        "median_guaranteed_compensation": 368750,
+        "std_dev_guaranteed_compensation": 842128.6197
+    },
+    {
+        "team_id": "gpMOLwl5zy",
+        "season_name": 2020,
+        "count_players": 1,
+        "total_guaranteed_compensation": 287375,
+        "avg_guaranteed_compensation": 287375,
+        "median_guaranteed_compensation": 287375
+    },
+    {
+        "team_id": "gpMOLwl5zy",
+        "season_name": 2021,
+        "count_players": 31,
+        "total_guaranteed_compensation": 12576476,
+        "avg_guaranteed_compensation": 405692.7742,
+        "median_guaranteed_compensation": 250000,
+        "std_dev_guaranteed_compensation": 551828.3375
+    },
+    {
+        "team_id": "gpMOLwl5zy",
+        "season_name": 2022,
+        "count_players": 31,
+        "total_guaranteed_compensation": 16375786,
+        "avg_guaranteed_compensation": 528251.1613,
+        "median_guaranteed_compensation": 337500,
+        "std_dev_guaranteed_compensation": 624922.7363
+    },
+    {
+        "team_id": "gpMOLwl5zy",
+        "season_name": 2023,
+        "count_players": 33,
+        "total_guaranteed_compensation": 21041047,
+        "avg_guaranteed_compensation": 637607.4848,
+        "median_guaranteed_compensation": 397500,
+        "std_dev_guaranteed_compensation": 1065376.5707
+    },
+    {
+        "team_id": "gpMOLwl5zy",
+        "season_name": 2024,
+        "count_players": 29,
+        "total_guaranteed_compensation": 20293880,
+        "avg_guaranteed_compensation": 699788.9655,
+        "median_guaranteed_compensation": 375000,
+        "std_dev_guaranteed_compensation": 1247523.0339
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2013,
+        "count_players": 34,
+        "total_guaranteed_compensation": 10746779.16,
+        "avg_guaranteed_compensation": 316081.74,
+        "median_guaranteed_compensation": 74100,
+        "std_dev_guaranteed_compensation": 890509.5287
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 11884090.6,
+        "avg_guaranteed_compensation": 360123.9576,
+        "median_guaranteed_compensation": 70000,
+        "std_dev_guaranteed_compensation": 1176311.0314
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2015,
+        "count_players": 32,
+        "total_guaranteed_compensation": 13288443.29,
+        "avg_guaranteed_compensation": 415263.8528,
+        "median_guaranteed_compensation": 117562.5,
+        "std_dev_guaranteed_compensation": 943014.793
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2016,
+        "count_players": 31,
+        "total_guaranteed_compensation": 12507823,
+        "avg_guaranteed_compensation": 403478.1613,
+        "median_guaranteed_compensation": 77412.5,
+        "std_dev_guaranteed_compensation": 877402.0908
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2017,
+        "count_players": 30,
+        "total_guaranteed_compensation": 12249523.83,
+        "avg_guaranteed_compensation": 408317.461,
+        "median_guaranteed_compensation": 140999.975,
+        "std_dev_guaranteed_compensation": 763140.1722
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2018,
+        "count_players": 30,
+        "total_guaranteed_compensation": 14029965.05,
+        "avg_guaranteed_compensation": 467665.5017,
+        "median_guaranteed_compensation": 215270.835,
+        "std_dev_guaranteed_compensation": 597911.6486
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2019,
+        "count_players": 29,
+        "total_guaranteed_compensation": 13748664.3,
+        "avg_guaranteed_compensation": 474091.8724,
+        "median_guaranteed_compensation": 337500.1,
+        "std_dev_guaranteed_compensation": 577874.235
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2020,
+        "count_players": 29,
+        "total_guaranteed_compensation": 13591129,
+        "avg_guaranteed_compensation": 468659.6207,
+        "median_guaranteed_compensation": 210000,
+        "std_dev_guaranteed_compensation": 600642.0689
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2021,
+        "count_players": 30,
+        "total_guaranteed_compensation": 13588370,
+        "avg_guaranteed_compensation": 452945.6667,
+        "median_guaranteed_compensation": 174637,
+        "std_dev_guaranteed_compensation": 626298.4262
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2022,
+        "count_players": 28,
+        "total_guaranteed_compensation": 16983746,
+        "avg_guaranteed_compensation": 606562.3571,
+        "median_guaranteed_compensation": 221250,
+        "std_dev_guaranteed_compensation": 873237.9797
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2023,
+        "count_players": 29,
+        "total_guaranteed_compensation": 19185352,
+        "avg_guaranteed_compensation": 661563.8621,
+        "median_guaranteed_compensation": 217500,
+        "std_dev_guaranteed_compensation": 879977.9915
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "season_name": 2024,
+        "count_players": 28,
+        "total_guaranteed_compensation": 16680315,
+        "avg_guaranteed_compensation": 595725.5357,
+        "median_guaranteed_compensation": 304950,
+        "std_dev_guaranteed_compensation": 717993.1506
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2014,
+        "count_players": 5,
+        "total_guaranteed_compensation": 7419337.5,
+        "avg_guaranteed_compensation": 1483867.5,
+        "median_guaranteed_compensation": 71400,
+        "std_dev_guaranteed_compensation": 3177278.0258
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2015,
+        "count_players": 35,
+        "total_guaranteed_compensation": 12147496.11,
+        "avg_guaranteed_compensation": 347071.3174,
+        "median_guaranteed_compensation": 108000,
+        "std_dev_guaranteed_compensation": 1192941.3574
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 12125975.34,
+        "avg_guaranteed_compensation": 378936.7294,
+        "median_guaranteed_compensation": 110250,
+        "std_dev_guaranteed_compensation": 1247369.6331
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2017,
+        "count_players": 34,
+        "total_guaranteed_compensation": 15041745.36,
+        "avg_guaranteed_compensation": 442404.2753,
+        "median_guaranteed_compensation": 147000,
+        "std_dev_guaranteed_compensation": 1208650.1717
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2018,
+        "count_players": 31,
+        "total_guaranteed_compensation": 9452657.53,
+        "avg_guaranteed_compensation": 304924.4365,
+        "median_guaranteed_compensation": 164000,
+        "std_dev_guaranteed_compensation": 331384.8895
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2019,
+        "count_players": 31,
+        "total_guaranteed_compensation": 12643474.41,
+        "avg_guaranteed_compensation": 407854.0132,
+        "median_guaranteed_compensation": 159999.95,
+        "std_dev_guaranteed_compensation": 531607.4717
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2020,
+        "count_players": 31,
+        "total_guaranteed_compensation": 11733964,
+        "avg_guaranteed_compensation": 378514.9677,
+        "median_guaranteed_compensation": 180000,
+        "std_dev_guaranteed_compensation": 526009.9977
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2021,
+        "count_players": 34,
+        "total_guaranteed_compensation": 11961241,
+        "avg_guaranteed_compensation": 351801.2059,
+        "median_guaranteed_compensation": 189250,
+        "std_dev_guaranteed_compensation": 508448.9689
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 13210012,
+        "avg_guaranteed_compensation": 400303.3939,
+        "median_guaranteed_compensation": 318240,
+        "std_dev_guaranteed_compensation": 394530.3442
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 11696519,
+        "avg_guaranteed_compensation": 377307.0645,
+        "median_guaranteed_compensation": 265900,
+        "std_dev_guaranteed_compensation": 430758.956
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "season_name": 2024,
+        "count_players": 33,
+        "total_guaranteed_compensation": 17493932,
+        "avg_guaranteed_compensation": 530119.1515,
+        "median_guaranteed_compensation": 305900,
+        "std_dev_guaranteed_compensation": 797432.7382
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 10103326,
+        "avg_guaranteed_compensation": 315728.9375,
+        "median_guaranteed_compensation": 92500,
+        "std_dev_guaranteed_compensation": 849302.9171
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2014,
+        "count_players": 32,
+        "total_guaranteed_compensation": 13258410.67,
+        "avg_guaranteed_compensation": 414325.3334,
+        "median_guaranteed_compensation": 72299,
+        "std_dev_guaranteed_compensation": 1103778.5591
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2015,
+        "count_players": 31,
+        "total_guaranteed_compensation": 21445699.75,
+        "avg_guaranteed_compensation": 691796.7661,
+        "median_guaranteed_compensation": 125000,
+        "std_dev_guaranteed_compensation": 1645988.5998
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2016,
+        "count_players": 29,
+        "total_guaranteed_compensation": 18624236,
+        "avg_guaranteed_compensation": 642215.0345,
+        "median_guaranteed_compensation": 165000,
+        "std_dev_guaranteed_compensation": 1431229.0884
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2017,
+        "count_players": 30,
+        "total_guaranteed_compensation": 15021391.92,
+        "avg_guaranteed_compensation": 500713.064,
+        "median_guaranteed_compensation": 117500,
+        "std_dev_guaranteed_compensation": 1066188.8365
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2018,
+        "count_players": 28,
+        "total_guaranteed_compensation": 17574508.24,
+        "avg_guaranteed_compensation": 627661.0086,
+        "median_guaranteed_compensation": 174999.95,
+        "std_dev_guaranteed_compensation": 1188386.2486
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2019,
+        "count_players": 31,
+        "total_guaranteed_compensation": 19821979.61,
+        "avg_guaranteed_compensation": 639418.6971,
+        "median_guaranteed_compensation": 189999.95,
+        "std_dev_guaranteed_compensation": 1320091.2685
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2020,
+        "count_players": 32,
+        "total_guaranteed_compensation": 18094501,
+        "avg_guaranteed_compensation": 565453.1562,
+        "median_guaranteed_compensation": 101500,
+        "std_dev_guaranteed_compensation": 1105745.7633
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2021,
+        "count_players": 34,
+        "total_guaranteed_compensation": 20322677,
+        "avg_guaranteed_compensation": 597725.7941,
+        "median_guaranteed_compensation": 292175,
+        "std_dev_guaranteed_compensation": 1052033.1557
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 26866672,
+        "avg_guaranteed_compensation": 814141.5758,
+        "median_guaranteed_compensation": 400000,
+        "std_dev_guaranteed_compensation": 1449888.4673
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2023,
+        "count_players": 35,
+        "total_guaranteed_compensation": 26532359,
+        "avg_guaranteed_compensation": 758067.4,
+        "median_guaranteed_compensation": 347500,
+        "std_dev_guaranteed_compensation": 1405434.522
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "season_name": 2024,
+        "count_players": 29,
+        "total_guaranteed_compensation": 22235492,
+        "avg_guaranteed_compensation": 766741.1034,
+        "median_guaranteed_compensation": 291667,
+        "std_dev_guaranteed_compensation": 1147299.1182
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2016,
+        "count_players": 6,
+        "total_guaranteed_compensation": 523619.33,
+        "avg_guaranteed_compensation": 87269.8883,
+        "median_guaranteed_compensation": 74420.665,
+        "std_dev_guaranteed_compensation": 43314.9632
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2017,
+        "count_players": 33,
+        "total_guaranteed_compensation": 9675016.28,
+        "avg_guaranteed_compensation": 293182.3115,
+        "median_guaranteed_compensation": 150000,
+        "std_dev_guaranteed_compensation": 430220.0025
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 11606330.49,
+        "avg_guaranteed_compensation": 362697.8278,
+        "median_guaranteed_compensation": 137501.98,
+        "std_dev_guaranteed_compensation": 503631.9526
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2019,
+        "count_players": 35,
+        "total_guaranteed_compensation": 13222018.74,
+        "avg_guaranteed_compensation": 377771.964,
+        "median_guaranteed_compensation": 166000,
+        "std_dev_guaranteed_compensation": 565155.9499
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2020,
+        "count_players": 31,
+        "total_guaranteed_compensation": 14047996,
+        "avg_guaranteed_compensation": 453161.1613,
+        "median_guaranteed_compensation": 225063,
+        "std_dev_guaranteed_compensation": 651293.7619
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2021,
+        "count_players": 36,
+        "total_guaranteed_compensation": 21209400,
+        "avg_guaranteed_compensation": 589150,
+        "median_guaranteed_compensation": 262531,
+        "std_dev_guaranteed_compensation": 946417.1769
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2022,
+        "count_players": 39,
+        "total_guaranteed_compensation": 22895134,
+        "avg_guaranteed_compensation": 587054.7179,
+        "median_guaranteed_compensation": 247333,
+        "std_dev_guaranteed_compensation": 1007691.3417
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2023,
+        "count_players": 37,
+        "total_guaranteed_compensation": 25908400,
+        "avg_guaranteed_compensation": 700227.027,
+        "median_guaranteed_compensation": 483500,
+        "std_dev_guaranteed_compensation": 914123.4206
+    },
+    {
+        "team_id": "KAqBN0Vqbg",
+        "season_name": 2024,
+        "count_players": 34,
+        "total_guaranteed_compensation": 20662733,
+        "avg_guaranteed_compensation": 607727.4412,
+        "median_guaranteed_compensation": 442250,
+        "std_dev_guaranteed_compensation": 763111.6083
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2013,
+        "count_players": 38,
+        "total_guaranteed_compensation": 5781508.25,
+        "avg_guaranteed_compensation": 152144.9539,
+        "median_guaranteed_compensation": 81374.99,
+        "std_dev_guaranteed_compensation": 266242.8897
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 17284544.85,
+        "avg_guaranteed_compensation": 523774.0864,
+        "median_guaranteed_compensation": 100500,
+        "std_dev_guaranteed_compensation": 1514460.5006
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2015,
+        "count_players": 32,
+        "total_guaranteed_compensation": 23524899.88,
+        "avg_guaranteed_compensation": 735153.1212,
+        "median_guaranteed_compensation": 122000,
+        "std_dev_guaranteed_compensation": 1799456.2771
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2016,
+        "count_players": 28,
+        "total_guaranteed_compensation": 21957300.08,
+        "avg_guaranteed_compensation": 784189.2886,
+        "median_guaranteed_compensation": 115862.5,
+        "std_dev_guaranteed_compensation": 1921426.9985
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2017,
+        "count_players": 30,
+        "total_guaranteed_compensation": 22630790.04,
+        "avg_guaranteed_compensation": 754359.668,
+        "median_guaranteed_compensation": 109066.5,
+        "std_dev_guaranteed_compensation": 1863172.3485
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 26834173.53,
+        "avg_guaranteed_compensation": 838567.9228,
+        "median_guaranteed_compensation": 183587.335,
+        "std_dev_guaranteed_compensation": 1807087.3713
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2019,
+        "count_players": 34,
+        "total_guaranteed_compensation": 24618558.06,
+        "avg_guaranteed_compensation": 724075.2371,
+        "median_guaranteed_compensation": 194551.335,
+        "std_dev_guaranteed_compensation": 1585820.1293
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2020,
+        "count_players": 32,
+        "total_guaranteed_compensation": 19723478,
+        "avg_guaranteed_compensation": 616358.6875,
+        "median_guaranteed_compensation": 216037.5,
+        "std_dev_guaranteed_compensation": 1078589.2727
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2021,
+        "count_players": 34,
+        "total_guaranteed_compensation": 19494805,
+        "avg_guaranteed_compensation": 573376.6176,
+        "median_guaranteed_compensation": 143256.5,
+        "std_dev_guaranteed_compensation": 1015059.5689
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 39504423,
+        "avg_guaranteed_compensation": 1197103.7273,
+        "median_guaranteed_compensation": 313583,
+        "std_dev_guaranteed_compensation": 2660701.4734
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2023,
+        "count_players": 33,
+        "total_guaranteed_compensation": 35380365,
+        "avg_guaranteed_compensation": 1072132.2727,
+        "median_guaranteed_compensation": 388000,
+        "std_dev_guaranteed_compensation": 2790065.5516
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "season_name": 2024,
+        "count_players": 34,
+        "total_guaranteed_compensation": 32976320,
+        "avg_guaranteed_compensation": 969891.7647,
+        "median_guaranteed_compensation": 199095.5,
+        "std_dev_guaranteed_compensation": 2764565.3326
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2017,
+        "count_players": 33,
+        "total_guaranteed_compensation": 6342286.88,
+        "avg_guaranteed_compensation": 192190.5115,
+        "median_guaranteed_compensation": 176000.05,
+        "std_dev_guaranteed_compensation": 125336.7311
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2018,
+        "count_players": 33,
+        "total_guaranteed_compensation": 9377627.5,
+        "avg_guaranteed_compensation": 284170.5303,
+        "median_guaranteed_compensation": 208761.33,
+        "std_dev_guaranteed_compensation": 297962.8147
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2019,
+        "count_players": 29,
+        "total_guaranteed_compensation": 10756910.7,
+        "avg_guaranteed_compensation": 370927.9552,
+        "median_guaranteed_compensation": 300004,
+        "std_dev_guaranteed_compensation": 367607.8802
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2020,
+        "count_players": 31,
+        "total_guaranteed_compensation": 10423433,
+        "avg_guaranteed_compensation": 336239.7742,
+        "median_guaranteed_compensation": 233531,
+        "std_dev_guaranteed_compensation": 291916.5347
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2021,
+        "count_players": 35,
+        "total_guaranteed_compensation": 13672195,
+        "avg_guaranteed_compensation": 390634.1429,
+        "median_guaranteed_compensation": 158125,
+        "std_dev_guaranteed_compensation": 497106.9271
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2022,
+        "count_players": 35,
+        "total_guaranteed_compensation": 14244858,
+        "avg_guaranteed_compensation": 406995.9429,
+        "median_guaranteed_compensation": 245000,
+        "std_dev_guaranteed_compensation": 492541.0355
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2023,
+        "count_players": 34,
+        "total_guaranteed_compensation": 16405202,
+        "avg_guaranteed_compensation": 482505.9412,
+        "median_guaranteed_compensation": 235141.5,
+        "std_dev_guaranteed_compensation": 682344.4009
+    },
+    {
+        "team_id": "kRQand1MKZ",
+        "season_name": 2024,
+        "count_players": 38,
+        "total_guaranteed_compensation": 17925557,
+        "avg_guaranteed_compensation": 471725.1842,
+        "median_guaranteed_compensation": 186293,
+        "std_dev_guaranteed_compensation": 698916.2973
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 5017296.28,
+        "avg_guaranteed_compensation": 156790.5088,
+        "median_guaranteed_compensation": 83000,
+        "std_dev_guaranteed_compensation": 195826.0372
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 6851433.09,
+        "avg_guaranteed_compensation": 207619.1845,
+        "median_guaranteed_compensation": 115000,
+        "std_dev_guaranteed_compensation": 278807.6517
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2015,
+        "count_players": 31,
+        "total_guaranteed_compensation": 6261094.71,
+        "avg_guaranteed_compensation": 201970.7971,
+        "median_guaranteed_compensation": 112000,
+        "std_dev_guaranteed_compensation": 274056.0372
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2016,
+        "count_players": 33,
+        "total_guaranteed_compensation": 7904519.47,
+        "avg_guaranteed_compensation": 239530.893,
+        "median_guaranteed_compensation": 113416.67,
+        "std_dev_guaranteed_compensation": 307103.8827
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2017,
+        "count_players": 37,
+        "total_guaranteed_compensation": 8797186.14,
+        "avg_guaranteed_compensation": 237761.7876,
+        "median_guaranteed_compensation": 140000,
+        "std_dev_guaranteed_compensation": 320522.7156
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2018,
+        "count_players": 35,
+        "total_guaranteed_compensation": 8575278.24,
+        "avg_guaranteed_compensation": 245007.9497,
+        "median_guaranteed_compensation": 156250,
+        "std_dev_guaranteed_compensation": 239638.3677
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2019,
+        "count_players": 32,
+        "total_guaranteed_compensation": 9252129.68,
+        "avg_guaranteed_compensation": 289129.0525,
+        "median_guaranteed_compensation": 175088.525,
+        "std_dev_guaranteed_compensation": 303535.1253
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2020,
+        "count_players": 29,
+        "total_guaranteed_compensation": 8532573,
+        "avg_guaranteed_compensation": 294226.6552,
+        "median_guaranteed_compensation": 162525,
+        "std_dev_guaranteed_compensation": 351230.6711
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2021,
+        "count_players": 37,
+        "total_guaranteed_compensation": 12190317,
+        "avg_guaranteed_compensation": 329468.027,
+        "median_guaranteed_compensation": 167500,
+        "std_dev_guaranteed_compensation": 411597.7488
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2022,
+        "count_players": 36,
+        "total_guaranteed_compensation": 15072487,
+        "avg_guaranteed_compensation": 418680.1944,
+        "median_guaranteed_compensation": 304500,
+        "std_dev_guaranteed_compensation": 454166.6137
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 15617214,
+        "avg_guaranteed_compensation": 503781.0968,
+        "median_guaranteed_compensation": 300000,
+        "std_dev_guaranteed_compensation": 533379.4986
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "season_name": 2024,
+        "count_players": 32,
+        "total_guaranteed_compensation": 18675545,
+        "avg_guaranteed_compensation": 583610.7812,
+        "median_guaranteed_compensation": 379712,
+        "std_dev_guaranteed_compensation": 698079.7831
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2013,
+        "count_players": 33,
+        "total_guaranteed_compensation": 4792735.16,
+        "avg_guaranteed_compensation": 145234.3988,
+        "median_guaranteed_compensation": 85875,
+        "std_dev_guaranteed_compensation": 144634.6241
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 4856661.99,
+        "avg_guaranteed_compensation": 147171.5755,
+        "median_guaranteed_compensation": 97875,
+        "std_dev_guaranteed_compensation": 135875.0971
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2015,
+        "count_players": 27,
+        "total_guaranteed_compensation": 4098291.59,
+        "avg_guaranteed_compensation": 151788.5774,
+        "median_guaranteed_compensation": 130000,
+        "std_dev_guaranteed_compensation": 101037.2455
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 4893900.62,
+        "avg_guaranteed_compensation": 152934.3944,
+        "median_guaranteed_compensation": 126566.5,
+        "std_dev_guaranteed_compensation": 137238.2874
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2017,
+        "count_players": 31,
+        "total_guaranteed_compensation": 7345390.15,
+        "avg_guaranteed_compensation": 236948.0694,
+        "median_guaranteed_compensation": 152500,
+        "std_dev_guaranteed_compensation": 226012.2909
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2018,
+        "count_players": 37,
+        "total_guaranteed_compensation": 10776946.55,
+        "avg_guaranteed_compensation": 291268.8257,
+        "median_guaranteed_compensation": 182500,
+        "std_dev_guaranteed_compensation": 257135.8626
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2019,
+        "count_players": 32,
+        "total_guaranteed_compensation": 9833069.13,
+        "avg_guaranteed_compensation": 307283.4103,
+        "median_guaranteed_compensation": 187950,
+        "std_dev_guaranteed_compensation": 267131.9844
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2020,
+        "count_players": 31,
+        "total_guaranteed_compensation": 12428416,
+        "avg_guaranteed_compensation": 400916.6452,
+        "median_guaranteed_compensation": 211900,
+        "std_dev_guaranteed_compensation": 531712.8231
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2021,
+        "count_players": 33,
+        "total_guaranteed_compensation": 12334317,
+        "avg_guaranteed_compensation": 373767.1818,
+        "median_guaranteed_compensation": 228000,
+        "std_dev_guaranteed_compensation": 525189.9945
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 16153483,
+        "avg_guaranteed_compensation": 489499.4848,
+        "median_guaranteed_compensation": 225000,
+        "std_dev_guaranteed_compensation": 633653.4747
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2023,
+        "count_players": 33,
+        "total_guaranteed_compensation": 15010296,
+        "avg_guaranteed_compensation": 454857.4545,
+        "median_guaranteed_compensation": 297000,
+        "std_dev_guaranteed_compensation": 486834.1937
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "season_name": 2024,
+        "count_players": 37,
+        "total_guaranteed_compensation": 17314991,
+        "avg_guaranteed_compensation": 467972.7297,
+        "median_guaranteed_compensation": 227750,
+        "std_dev_guaranteed_compensation": 580269.3793
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2013,
+        "count_players": 30,
+        "total_guaranteed_compensation": 3642001.35,
+        "avg_guaranteed_compensation": 121400.045,
+        "median_guaranteed_compensation": 77250,
+        "std_dev_guaranteed_compensation": 121990.2553
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 4111893.44,
+        "avg_guaranteed_compensation": 124602.8315,
+        "median_guaranteed_compensation": 75000,
+        "std_dev_guaranteed_compensation": 138661.854
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2015,
+        "count_players": 31,
+        "total_guaranteed_compensation": 5855122.39,
+        "avg_guaranteed_compensation": 188874.9158,
+        "median_guaranteed_compensation": 110000,
+        "std_dev_guaranteed_compensation": 226707.3028
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2016,
+        "count_players": 29,
+        "total_guaranteed_compensation": 6049069.34,
+        "avg_guaranteed_compensation": 208588.5979,
+        "median_guaranteed_compensation": 120000,
+        "std_dev_guaranteed_compensation": 226116.2909
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2017,
+        "count_players": 31,
+        "total_guaranteed_compensation": 7478544.98,
+        "avg_guaranteed_compensation": 241243.3865,
+        "median_guaranteed_compensation": 150000,
+        "std_dev_guaranteed_compensation": 251674.8166
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2018,
+        "count_players": 29,
+        "total_guaranteed_compensation": 7715954.12,
+        "avg_guaranteed_compensation": 266067.3834,
+        "median_guaranteed_compensation": 145000,
+        "std_dev_guaranteed_compensation": 279562.7943
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2019,
+        "count_players": 35,
+        "total_guaranteed_compensation": 11915780.23,
+        "avg_guaranteed_compensation": 340450.8637,
+        "median_guaranteed_compensation": 200000.05,
+        "std_dev_guaranteed_compensation": 349564.1726
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2020,
+        "count_players": 30,
+        "total_guaranteed_compensation": 14094779,
+        "avg_guaranteed_compensation": 469825.9667,
+        "median_guaranteed_compensation": 257500,
+        "std_dev_guaranteed_compensation": 520877.01
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2021,
+        "count_players": 31,
+        "total_guaranteed_compensation": 14404795,
+        "avg_guaranteed_compensation": 464670.8065,
+        "median_guaranteed_compensation": 365000,
+        "std_dev_guaranteed_compensation": 483721.1434
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2022,
+        "count_players": 31,
+        "total_guaranteed_compensation": 18012808,
+        "avg_guaranteed_compensation": 581058.3226,
+        "median_guaranteed_compensation": 325000,
+        "std_dev_guaranteed_compensation": 827124.6352
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2023,
+        "count_players": 32,
+        "total_guaranteed_compensation": 21369147,
+        "avg_guaranteed_compensation": 667785.8438,
+        "median_guaranteed_compensation": 393565,
+        "std_dev_guaranteed_compensation": 896545.8141
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "season_name": 2024,
+        "count_players": 29,
+        "total_guaranteed_compensation": 17431964,
+        "avg_guaranteed_compensation": 601102.2069,
+        "median_guaranteed_compensation": 432500,
+        "std_dev_guaranteed_compensation": 777648.5183
+    },
+    {
+        "team_id": "NPqxKXZ59d",
+        "season_name": 2021,
+        "count_players": 2,
+        "total_guaranteed_compensation": 154252,
+        "avg_guaranteed_compensation": 77126,
+        "median_guaranteed_compensation": 77126,
+        "std_dev_guaranteed_compensation": 19203.606
+    },
+    {
+        "team_id": "NPqxKXZ59d",
+        "season_name": 2022,
+        "count_players": 35,
+        "total_guaranteed_compensation": 12774661,
+        "avg_guaranteed_compensation": 364990.3143,
+        "median_guaranteed_compensation": 278083,
+        "std_dev_guaranteed_compensation": 401277.7737
+    },
+    {
+        "team_id": "NPqxKXZ59d",
+        "season_name": 2023,
+        "count_players": 39,
+        "total_guaranteed_compensation": 15408616,
+        "avg_guaranteed_compensation": 395092.7179,
+        "median_guaranteed_compensation": 303083,
+        "std_dev_guaranteed_compensation": 434685.4071
+    },
+    {
+        "team_id": "NPqxKXZ59d",
+        "season_name": 2024,
+        "count_players": 37,
+        "total_guaranteed_compensation": 18283170,
+        "avg_guaranteed_compensation": 494139.7297,
+        "median_guaranteed_compensation": 311875,
+        "std_dev_guaranteed_compensation": 617382.1896
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2018,
+        "count_players": 2,
+        "total_guaranteed_compensation": 2057575.9,
+        "avg_guaranteed_compensation": 1028787.95,
+        "median_guaranteed_compensation": 1028787.95,
+        "std_dev_guaranteed_compensation": 1279220.4432
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2019,
+        "count_players": 36,
+        "total_guaranteed_compensation": 11420530.99,
+        "avg_guaranteed_compensation": 317236.9719,
+        "median_guaranteed_compensation": 181000,
+        "std_dev_guaranteed_compensation": 407469.1017
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2020,
+        "count_players": 32,
+        "total_guaranteed_compensation": 13304603,
+        "avg_guaranteed_compensation": 415768.8438,
+        "median_guaranteed_compensation": 233002,
+        "std_dev_guaranteed_compensation": 491552.4568
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2021,
+        "count_players": 36,
+        "total_guaranteed_compensation": 16793343,
+        "avg_guaranteed_compensation": 466481.75,
+        "median_guaranteed_compensation": 271187.5,
+        "std_dev_guaranteed_compensation": 637530.9645
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2022,
+        "count_players": 32,
+        "total_guaranteed_compensation": 16529837,
+        "avg_guaranteed_compensation": 516557.4062,
+        "median_guaranteed_compensation": 239375,
+        "std_dev_guaranteed_compensation": 601775.3691
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 16567328,
+        "avg_guaranteed_compensation": 534429.9355,
+        "median_guaranteed_compensation": 220833,
+        "std_dev_guaranteed_compensation": 616761.0671
+    },
+    {
+        "team_id": "NWMWlBK5lz",
+        "season_name": 2024,
+        "count_players": 34,
+        "total_guaranteed_compensation": 22709609,
+        "avg_guaranteed_compensation": 667929.6765,
+        "median_guaranteed_compensation": 346250,
+        "std_dev_guaranteed_compensation": 858017.1385
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2013,
+        "count_players": 32,
+        "total_guaranteed_compensation": 3880512.98,
+        "avg_guaranteed_compensation": 121266.0306,
+        "median_guaranteed_compensation": 88481.25,
+        "std_dev_guaranteed_compensation": 81195.2329
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2014,
+        "count_players": 32,
+        "total_guaranteed_compensation": 3871133.81,
+        "avg_guaranteed_compensation": 120972.9316,
+        "median_guaranteed_compensation": 86000,
+        "std_dev_guaranteed_compensation": 87472.4122
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2015,
+        "count_players": 31,
+        "total_guaranteed_compensation": 5187406.7,
+        "avg_guaranteed_compensation": 167335.7,
+        "median_guaranteed_compensation": 99996,
+        "std_dev_guaranteed_compensation": 207078.0097
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2016,
+        "count_players": 30,
+        "total_guaranteed_compensation": 8861787.78,
+        "avg_guaranteed_compensation": 295392.926,
+        "median_guaranteed_compensation": 87500,
+        "std_dev_guaranteed_compensation": 554396.972
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2017,
+        "count_players": 28,
+        "total_guaranteed_compensation": 8681505.22,
+        "avg_guaranteed_compensation": 310053.7579,
+        "median_guaranteed_compensation": 115812.5,
+        "std_dev_guaranteed_compensation": 545843.7591
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2018,
+        "count_players": 33,
+        "total_guaranteed_compensation": 11570331.49,
+        "avg_guaranteed_compensation": 350616.1058,
+        "median_guaranteed_compensation": 144996,
+        "std_dev_guaranteed_compensation": 511551.7676
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2019,
+        "count_players": 29,
+        "total_guaranteed_compensation": 8991244.36,
+        "avg_guaranteed_compensation": 310042.909,
+        "median_guaranteed_compensation": 138707.23,
+        "std_dev_guaranteed_compensation": 463081.9447
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2020,
+        "count_players": 28,
+        "total_guaranteed_compensation": 7659405,
+        "avg_guaranteed_compensation": 273550.1786,
+        "median_guaranteed_compensation": 145218.5,
+        "std_dev_guaranteed_compensation": 280762.4727
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2021,
+        "count_players": 36,
+        "total_guaranteed_compensation": 11027762,
+        "avg_guaranteed_compensation": 306326.7222,
+        "median_guaranteed_compensation": 225212.5,
+        "std_dev_guaranteed_compensation": 287819.5763
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2022,
+        "count_players": 36,
+        "total_guaranteed_compensation": 12395247,
+        "avg_guaranteed_compensation": 344312.4167,
+        "median_guaranteed_compensation": 282742.5,
+        "std_dev_guaranteed_compensation": 312570.946
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2023,
+        "count_players": 38,
+        "total_guaranteed_compensation": 16431203,
+        "avg_guaranteed_compensation": 432400.0789,
+        "median_guaranteed_compensation": 364596.5,
+        "std_dev_guaranteed_compensation": 395190.2437
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "season_name": 2024,
+        "count_players": 34,
+        "total_guaranteed_compensation": 17256580,
+        "avg_guaranteed_compensation": 507546.4706,
+        "median_guaranteed_compensation": 362156.5,
+        "std_dev_guaranteed_compensation": 501826.21
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2014,
+        "count_players": 5,
+        "total_guaranteed_compensation": 464170.67,
+        "avg_guaranteed_compensation": 92834.134,
+        "median_guaranteed_compensation": 60000,
+        "std_dev_guaranteed_compensation": 56200.2387
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2015,
+        "count_players": 30,
+        "total_guaranteed_compensation": 17871767.89,
+        "avg_guaranteed_compensation": 595725.5963,
+        "median_guaranteed_compensation": 115000,
+        "std_dev_guaranteed_compensation": 1477126.8311
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2016,
+        "count_players": 28,
+        "total_guaranteed_compensation": 21510780.62,
+        "avg_guaranteed_compensation": 768242.165,
+        "median_guaranteed_compensation": 130625,
+        "std_dev_guaranteed_compensation": 1796341.0782
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2017,
+        "count_players": 30,
+        "total_guaranteed_compensation": 18108132.35,
+        "avg_guaranteed_compensation": 603604.4117,
+        "median_guaranteed_compensation": 119528.54,
+        "std_dev_guaranteed_compensation": 1449690.569
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2018,
+        "count_players": 29,
+        "total_guaranteed_compensation": 14824390.84,
+        "avg_guaranteed_compensation": 511185.891,
+        "median_guaranteed_compensation": 250008,
+        "std_dev_guaranteed_compensation": 1053485.8899
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2019,
+        "count_players": 28,
+        "total_guaranteed_compensation": 10415586.78,
+        "avg_guaranteed_compensation": 371985.2421,
+        "median_guaranteed_compensation": 237403.225,
+        "std_dev_guaranteed_compensation": 419397.0001
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2020,
+        "count_players": 27,
+        "total_guaranteed_compensation": 13014393,
+        "avg_guaranteed_compensation": 482014.5556,
+        "median_guaranteed_compensation": 299806,
+        "std_dev_guaranteed_compensation": 679457.8282
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2021,
+        "count_players": 31,
+        "total_guaranteed_compensation": 15341016,
+        "avg_guaranteed_compensation": 494871.4839,
+        "median_guaranteed_compensation": 278700,
+        "std_dev_guaranteed_compensation": 616747.051
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 16504148,
+        "avg_guaranteed_compensation": 500125.697,
+        "median_guaranteed_compensation": 308700,
+        "std_dev_guaranteed_compensation": 472320.3425
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2023,
+        "count_players": 39,
+        "total_guaranteed_compensation": 18704118,
+        "avg_guaranteed_compensation": 479592.7692,
+        "median_guaranteed_compensation": 295700,
+        "std_dev_guaranteed_compensation": 473540.1546
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "season_name": 2024,
+        "count_players": 33,
+        "total_guaranteed_compensation": 16530703,
+        "avg_guaranteed_compensation": 500930.3939,
+        "median_guaranteed_compensation": 328483,
+        "std_dev_guaranteed_compensation": 523281.4554
+    },
+    {
+        "team_id": "vzqoOgNqap",
+        "season_name": 2019,
+        "count_players": 2,
+        "total_guaranteed_compensation": 169690.71,
+        "avg_guaranteed_compensation": 84845.355,
+        "median_guaranteed_compensation": 84845.355,
+        "std_dev_guaranteed_compensation": 9587.9225
+    },
+    {
+        "team_id": "vzqoOgNqap",
+        "season_name": 2020,
+        "count_players": 33,
+        "total_guaranteed_compensation": 9977537,
+        "avg_guaranteed_compensation": 302349.6061,
+        "median_guaranteed_compensation": 147969,
+        "std_dev_guaranteed_compensation": 335390.9413
+    },
+    {
+        "team_id": "vzqoOgNqap",
+        "season_name": 2021,
+        "count_players": 35,
+        "total_guaranteed_compensation": 13072494,
+        "avg_guaranteed_compensation": 373499.8286,
+        "median_guaranteed_compensation": 200000,
+        "std_dev_guaranteed_compensation": 403439.0234
+    },
+    {
+        "team_id": "vzqoOgNqap",
+        "season_name": 2022,
+        "count_players": 30,
+        "total_guaranteed_compensation": 14145780,
+        "avg_guaranteed_compensation": 471526,
+        "median_guaranteed_compensation": 246125,
+        "std_dev_guaranteed_compensation": 565028.479
+    },
+    {
+        "team_id": "vzqoOgNqap",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 17257138,
+        "avg_guaranteed_compensation": 556681.871,
+        "median_guaranteed_compensation": 266750,
+        "std_dev_guaranteed_compensation": 788607.1638
+    },
+    {
+        "team_id": "vzqoOgNqap",
+        "season_name": 2024,
+        "count_players": 30,
+        "total_guaranteed_compensation": 21864490,
+        "avg_guaranteed_compensation": 728816.3333,
+        "median_guaranteed_compensation": 345000,
+        "std_dev_guaranteed_compensation": 1152500.479
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2013,
+        "count_players": 33,
+        "total_guaranteed_compensation": 3926776.32,
+        "avg_guaranteed_compensation": 118993.2218,
+        "median_guaranteed_compensation": 76000,
+        "std_dev_guaranteed_compensation": 90569.0877
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 5770636.24,
+        "avg_guaranteed_compensation": 174867.7648,
+        "median_guaranteed_compensation": 113000,
+        "std_dev_guaranteed_compensation": 224448.5115
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2015,
+        "count_players": 29,
+        "total_guaranteed_compensation": 6325908.43,
+        "avg_guaranteed_compensation": 218134.7734,
+        "median_guaranteed_compensation": 123000,
+        "std_dev_guaranteed_compensation": 259379.7154
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 7763716.44,
+        "avg_guaranteed_compensation": 242616.1388,
+        "median_guaranteed_compensation": 136500,
+        "std_dev_guaranteed_compensation": 270668.5296
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2017,
+        "count_players": 29,
+        "total_guaranteed_compensation": 11369315.15,
+        "avg_guaranteed_compensation": 392045.35,
+        "median_guaranteed_compensation": 155600,
+        "std_dev_guaranteed_compensation": 572755.2664
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2018,
+        "count_players": 33,
+        "total_guaranteed_compensation": 13200001.29,
+        "avg_guaranteed_compensation": 400000.0391,
+        "median_guaranteed_compensation": 166666.67,
+        "std_dev_guaranteed_compensation": 545221.0763
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2019,
+        "count_players": 28,
+        "total_guaranteed_compensation": 13253916.33,
+        "avg_guaranteed_compensation": 473354.1546,
+        "median_guaranteed_compensation": 178626.975,
+        "std_dev_guaranteed_compensation": 679465.7293
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2020,
+        "count_players": 28,
+        "total_guaranteed_compensation": 12157389,
+        "avg_guaranteed_compensation": 434192.4643,
+        "median_guaranteed_compensation": 232062.5,
+        "std_dev_guaranteed_compensation": 496399.0552
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2021,
+        "count_players": 30,
+        "total_guaranteed_compensation": 12671311,
+        "avg_guaranteed_compensation": 422377.0333,
+        "median_guaranteed_compensation": 245000,
+        "std_dev_guaranteed_compensation": 495575.6806
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2022,
+        "count_players": 29,
+        "total_guaranteed_compensation": 11377505,
+        "avg_guaranteed_compensation": 392327.7586,
+        "median_guaranteed_compensation": 248333,
+        "std_dev_guaranteed_compensation": 455702.5413
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 16363541,
+        "avg_guaranteed_compensation": 527856.1613,
+        "median_guaranteed_compensation": 384993,
+        "std_dev_guaranteed_compensation": 538342.849
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "season_name": 2024,
+        "count_players": 27,
+        "total_guaranteed_compensation": 16227333,
+        "avg_guaranteed_compensation": 601012.3333,
+        "median_guaranteed_compensation": 452000,
+        "std_dev_guaranteed_compensation": 629555.3785
+    },
+    {
+        "team_id": "wvq9B9wQWn",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 11186787,
+        "avg_guaranteed_compensation": 360864.0968,
+        "median_guaranteed_compensation": 112833,
+        "std_dev_guaranteed_compensation": 457249.2931
+    },
+    {
+        "team_id": "wvq9B9wQWn",
+        "season_name": 2024,
+        "count_players": 38,
+        "total_guaranteed_compensation": 17345232,
+        "avg_guaranteed_compensation": 456453.4737,
+        "median_guaranteed_compensation": 252875,
+        "std_dev_guaranteed_compensation": 525627.2872
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2013,
+        "count_players": 35,
+        "total_guaranteed_compensation": 5857982.32,
+        "avg_guaranteed_compensation": 167370.9234,
+        "median_guaranteed_compensation": 120000,
+        "std_dev_guaranteed_compensation": 157878.39
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2014,
+        "count_players": 33,
+        "total_guaranteed_compensation": 4268457.08,
+        "avg_guaranteed_compensation": 129347.1842,
+        "median_guaranteed_compensation": 82664.99,
+        "std_dev_guaranteed_compensation": 98659.604
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2015,
+        "count_players": 28,
+        "total_guaranteed_compensation": 7564613.56,
+        "avg_guaranteed_compensation": 270164.77,
+        "median_guaranteed_compensation": 108750,
+        "std_dev_guaranteed_compensation": 373802.0475
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2016,
+        "count_players": 28,
+        "total_guaranteed_compensation": 6350568.36,
+        "avg_guaranteed_compensation": 226806.0129,
+        "median_guaranteed_compensation": 113854.165,
+        "std_dev_guaranteed_compensation": 281385.1519
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2017,
+        "count_players": 30,
+        "total_guaranteed_compensation": 13089573.9,
+        "avg_guaranteed_compensation": 436319.13,
+        "median_guaranteed_compensation": 116512.5,
+        "std_dev_guaranteed_compensation": 1008917.1749
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 16250404.3,
+        "avg_guaranteed_compensation": 507825.1344,
+        "median_guaranteed_compensation": 124945,
+        "std_dev_guaranteed_compensation": 1140751.4172
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2019,
+        "count_players": 30,
+        "total_guaranteed_compensation": 17320856.06,
+        "avg_guaranteed_compensation": 577361.8687,
+        "median_guaranteed_compensation": 140812.525,
+        "std_dev_guaranteed_compensation": 1094099.3596
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2020,
+        "count_players": 32,
+        "total_guaranteed_compensation": 12631979,
+        "avg_guaranteed_compensation": 394749.3438,
+        "median_guaranteed_compensation": 128987.5,
+        "std_dev_guaranteed_compensation": 577873.5604
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2021,
+        "count_players": 30,
+        "total_guaranteed_compensation": 13922256,
+        "avg_guaranteed_compensation": 464075.2,
+        "median_guaranteed_compensation": 202157.5,
+        "std_dev_guaranteed_compensation": 632648.7228
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2022,
+        "count_players": 30,
+        "total_guaranteed_compensation": 19565159,
+        "avg_guaranteed_compensation": 652171.9667,
+        "median_guaranteed_compensation": 224800,
+        "std_dev_guaranteed_compensation": 1505433.9139
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2023,
+        "count_players": 31,
+        "total_guaranteed_compensation": 20415828,
+        "avg_guaranteed_compensation": 658575.0968,
+        "median_guaranteed_compensation": 279800,
+        "std_dev_guaranteed_compensation": 1457108.6845
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "season_name": 2024,
+        "count_players": 32,
+        "total_guaranteed_compensation": 25377012,
+        "avg_guaranteed_compensation": 793031.625,
+        "median_guaranteed_compensation": 402375,
+        "std_dev_guaranteed_compensation": 1505672.2196
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2013,
+        "count_players": 29,
+        "total_guaranteed_compensation": 3907140.17,
+        "avg_guaranteed_compensation": 134728.9714,
+        "median_guaranteed_compensation": 111000,
+        "std_dev_guaranteed_compensation": 83698.7999
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2014,
+        "count_players": 27,
+        "total_guaranteed_compensation": 4582381.53,
+        "avg_guaranteed_compensation": 169717.8344,
+        "median_guaranteed_compensation": 130625,
+        "std_dev_guaranteed_compensation": 152443.7819
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2015,
+        "count_players": 28,
+        "total_guaranteed_compensation": 5121708.31,
+        "avg_guaranteed_compensation": 182918.1539,
+        "median_guaranteed_compensation": 124083.335,
+        "std_dev_guaranteed_compensation": 171323.2954
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 6074418.77,
+        "avg_guaranteed_compensation": 189825.5866,
+        "median_guaranteed_compensation": 104000,
+        "std_dev_guaranteed_compensation": 197088.6138
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2017,
+        "count_players": 31,
+        "total_guaranteed_compensation": 5914645.65,
+        "avg_guaranteed_compensation": 190795.021,
+        "median_guaranteed_compensation": 170000,
+        "std_dev_guaranteed_compensation": 151636.266
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2018,
+        "count_players": 32,
+        "total_guaranteed_compensation": 6020471.7,
+        "avg_guaranteed_compensation": 188139.7406,
+        "median_guaranteed_compensation": 161250,
+        "std_dev_guaranteed_compensation": 139074.1142
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2019,
+        "count_players": 30,
+        "total_guaranteed_compensation": 8904849.27,
+        "avg_guaranteed_compensation": 296828.309,
+        "median_guaranteed_compensation": 177916.665,
+        "std_dev_guaranteed_compensation": 305153.2626
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2020,
+        "count_players": 29,
+        "total_guaranteed_compensation": 10116689,
+        "avg_guaranteed_compensation": 348851.3448,
+        "median_guaranteed_compensation": 210843,
+        "std_dev_guaranteed_compensation": 377848.1924
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2021,
+        "count_players": 34,
+        "total_guaranteed_compensation": 11993701,
+        "avg_guaranteed_compensation": 352755.9118,
+        "median_guaranteed_compensation": 237890,
+        "std_dev_guaranteed_compensation": 370055.4958
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2022,
+        "count_players": 33,
+        "total_guaranteed_compensation": 17032866,
+        "avg_guaranteed_compensation": 516147.4545,
+        "median_guaranteed_compensation": 259015,
+        "std_dev_guaranteed_compensation": 938530.3297
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2023,
+        "count_players": 35,
+        "total_guaranteed_compensation": 17879676,
+        "avg_guaranteed_compensation": 510847.8857,
+        "median_guaranteed_compensation": 280000,
+        "std_dev_guaranteed_compensation": 916349.9819
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "season_name": 2024,
+        "count_players": 32,
+        "total_guaranteed_compensation": 20515359,
+        "avg_guaranteed_compensation": 641104.9688,
+        "median_guaranteed_compensation": 375624.5,
+        "std_dev_guaranteed_compensation": 1030149.5523
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2013,
+        "count_players": 34,
+        "total_guaranteed_compensation": 4145694.04,
+        "avg_guaranteed_compensation": 121932.1776,
+        "median_guaranteed_compensation": 84750,
+        "std_dev_guaranteed_compensation": 97090.5152
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2014,
+        "count_players": 32,
+        "total_guaranteed_compensation": 4644504.77,
+        "avg_guaranteed_compensation": 145140.7741,
+        "median_guaranteed_compensation": 98125,
+        "std_dev_guaranteed_compensation": 147991.7416
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2015,
+        "count_players": 27,
+        "total_guaranteed_compensation": 5970501.45,
+        "avg_guaranteed_compensation": 221129.6833,
+        "median_guaranteed_compensation": 146750,
+        "std_dev_guaranteed_compensation": 204919.2401
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2016,
+        "count_players": 32,
+        "total_guaranteed_compensation": 6901746.05,
+        "avg_guaranteed_compensation": 215679.5641,
+        "median_guaranteed_compensation": 123125,
+        "std_dev_guaranteed_compensation": 218918.976
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2017,
+        "count_players": 34,
+        "total_guaranteed_compensation": 7229212.09,
+        "avg_guaranteed_compensation": 212623.885,
+        "median_guaranteed_compensation": 112779,
+        "std_dev_guaranteed_compensation": 241069.2249
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2018,
+        "count_players": 31,
+        "total_guaranteed_compensation": 11883112.05,
+        "avg_guaranteed_compensation": 383326.1952,
+        "median_guaranteed_compensation": 200000.05,
+        "std_dev_guaranteed_compensation": 427517.4337
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2019,
+        "count_players": 31,
+        "total_guaranteed_compensation": 13127083.74,
+        "avg_guaranteed_compensation": 423454.3142,
+        "median_guaranteed_compensation": 240000,
+        "std_dev_guaranteed_compensation": 432629.0087
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2020,
+        "count_players": 29,
+        "total_guaranteed_compensation": 13671015,
+        "avg_guaranteed_compensation": 471414.3103,
+        "median_guaranteed_compensation": 200000,
+        "std_dev_guaranteed_compensation": 539896.7151
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2021,
+        "count_players": 32,
+        "total_guaranteed_compensation": 14320162,
+        "avg_guaranteed_compensation": 447505.0625,
+        "median_guaranteed_compensation": 131252,
+        "std_dev_guaranteed_compensation": 515203.4615
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2022,
+        "count_players": 28,
+        "total_guaranteed_compensation": 15217909,
+        "avg_guaranteed_compensation": 543496.75,
+        "median_guaranteed_compensation": 411992.5,
+        "std_dev_guaranteed_compensation": 557642.0426
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2023,
+        "count_players": 32,
+        "total_guaranteed_compensation": 15064779,
+        "avg_guaranteed_compensation": 470774.3438,
+        "median_guaranteed_compensation": 298437.5,
+        "std_dev_guaranteed_compensation": 497537.2434
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "season_name": 2024,
+        "count_players": 30,
+        "total_guaranteed_compensation": 17291231,
+        "avg_guaranteed_compensation": 576374.3667,
+        "median_guaranteed_compensation": 427500,
+        "std_dev_guaranteed_compensation": 748790.1335
+    },
+    {
+        "team_id": "zeQZkL1MKw",
+        "season_name": 2019,
+        "count_players": 2,
+        "total_guaranteed_compensation": 241083.37,
+        "avg_guaranteed_compensation": 120541.685,
+        "median_guaranteed_compensation": 120541.685,
+        "std_dev_guaranteed_compensation": 71123.1264
+    },
+    {
+        "team_id": "zeQZkL1MKw",
+        "season_name": 2020,
+        "count_players": 30,
+        "total_guaranteed_compensation": 13894198,
+        "avg_guaranteed_compensation": 463139.9333,
+        "median_guaranteed_compensation": 230000,
+        "std_dev_guaranteed_compensation": 703773.7986
+    },
+    {
+        "team_id": "zeQZkL1MKw",
+        "season_name": 2021,
+        "count_players": 33,
+        "total_guaranteed_compensation": 18467664,
+        "avg_guaranteed_compensation": 559626.1818,
+        "median_guaranteed_compensation": 170000,
+        "std_dev_guaranteed_compensation": 1130138.5594
+    },
+    {
+        "team_id": "zeQZkL1MKw",
+        "season_name": 2022,
+        "count_players": 36,
+        "total_guaranteed_compensation": 24565528,
+        "avg_guaranteed_compensation": 682375.7778,
+        "median_guaranteed_compensation": 215196,
+        "std_dev_guaranteed_compensation": 1280780.3818
+    },
+    {
+        "team_id": "zeQZkL1MKw",
+        "season_name": 2023,
+        "count_players": 40,
+        "total_guaranteed_compensation": 43356256,
+        "avg_guaranteed_compensation": 1083906.4,
+        "median_guaranteed_compensation": 336708.5,
+        "std_dev_guaranteed_compensation": 3256228.1773
+    },
+    {
+        "team_id": "zeQZkL1MKw",
+        "season_name": 2024,
+        "count_players": 38,
+        "total_guaranteed_compensation": 42227583,
+        "avg_guaranteed_compensation": 1111252.1842,
+        "median_guaranteed_compensation": 258500,
+        "std_dev_guaranteed_compensation": 3519139.3953
+    },
+    {
+        "season_name": 2013,
+        "count_players": 7,
+        "total_guaranteed_compensation": 389750,
+        "avg_guaranteed_compensation": 55678.5714,
+        "median_guaranteed_compensation": 46500,
+        "std_dev_guaranteed_compensation": 29590.4208
+    },
+    {
+        "season_name": 2014,
+        "count_players": 4,
+        "total_guaranteed_compensation": 233817,
+        "avg_guaranteed_compensation": 58454.25,
+        "median_guaranteed_compensation": 61156.5,
+        "std_dev_guaranteed_compensation": 17574.5518
+    },
+    {
+        "season_name": 2015,
+        "count_players": 1,
+        "total_guaranteed_compensation": 50000.04,
+        "avg_guaranteed_compensation": 50000.04,
+        "median_guaranteed_compensation": 50000.04
+    },
+    {
+        "season_name": 2016,
+        "count_players": 1,
+        "total_guaranteed_compensation": 62500,
+        "avg_guaranteed_compensation": 62500,
+        "median_guaranteed_compensation": 62500
+    },
+    {
+        "season_name": 2017,
+        "count_players": 1,
+        "total_guaranteed_compensation": 53004,
+        "avg_guaranteed_compensation": 53004,
+        "median_guaranteed_compensation": 53004
+    },
+    {
+        "season_name": 2018,
+        "count_players": 9,
+        "total_guaranteed_compensation": 4789367.64,
+        "avg_guaranteed_compensation": 532151.96,
+        "median_guaranteed_compensation": 175008,
+        "std_dev_guaranteed_compensation": 766768.8352
+    },
+    {
+        "season_name": 2019,
+        "count_players": 9,
+        "total_guaranteed_compensation": 11832965.42,
+        "avg_guaranteed_compensation": 1314773.9356,
+        "median_guaranteed_compensation": 396990.34,
+        "std_dev_guaranteed_compensation": 2094619.0514
+    },
+    {
+        "season_name": 2020,
+        "count_players": 5,
+        "total_guaranteed_compensation": 787125,
+        "avg_guaranteed_compensation": 157425,
+        "median_guaranteed_compensation": 81375,
+        "std_dev_guaranteed_compensation": 122598.449
+    },
+    {
+        "season_name": 2021,
+        "count_players": 10,
+        "total_guaranteed_compensation": 2771367,
+        "avg_guaranteed_compensation": 277136.7,
+        "median_guaranteed_compensation": 140125,
+        "std_dev_guaranteed_compensation": 294836.8995
+    },
+    {
+        "season_name": 2022,
+        "count_players": 50,
+        "total_guaranteed_compensation": 22728742,
+        "avg_guaranteed_compensation": 454574.84,
+        "median_guaranteed_compensation": 191448,
+        "std_dev_guaranteed_compensation": 575196.8939
+    },
+    {
+        "season_name": 2023,
+        "count_players": 10,
+        "total_guaranteed_compensation": 5195542,
+        "avg_guaranteed_compensation": 519554.2,
+        "median_guaranteed_compensation": 203833.5,
+        "std_dev_guaranteed_compensation": 870978.9148
+    },
+    {
+        "season_name": 2024,
+        "count_players": 14,
+        "total_guaranteed_compensation": 10241201,
+        "avg_guaranteed_compensation": 731514.3571,
+        "median_guaranteed_compensation": 695000,
+        "std_dev_guaranteed_compensation": 662449.7453
+    }
+]
