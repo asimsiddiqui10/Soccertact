@@ -79,4 +79,4 @@ st.session_state.season = selected_season
 # Main Page Content
 st.title("SoccerTact MLS Dashboard")
 
-st.divider()
+st.divider()# Bug fixes and performance improvements
