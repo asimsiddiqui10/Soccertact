@@ -164,3 +164,9 @@ For support, email asimsiddiqui10@gmail.com or create an issue in the repository
 ---
 
 **Made with ⚽ for soccer analytics enthusiasts**
+
+## 🚀 Quick Start
+
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `streamlit run App/app.py`
