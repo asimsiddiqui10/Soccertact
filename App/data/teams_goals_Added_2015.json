@@ -1,0 +1,1102 @@
+[
+    {
+        "team_id": "0KPqjA456v",
+        "minutes": 3354,
+        "data": [
+            {
+                "action_type": "Passing",
+                "num_actions_for": 13917,
+                "goals_added_for": 2.3543,
+                "num_actions_against": 15707,
+                "goals_added_against": 4.6779
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4377,
+                "goals_added_for": 22.7895,
+                "num_actions_against": 4333,
+                "goals_added_against": 19.29
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 405,
+                "goals_added_for": 9.6076,
+                "num_actions_against": 399,
+                "goals_added_against": 8.8874
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 10152,
+                "goals_added_for": 19.4377,
+                "num_actions_against": 12047,
+                "goals_added_against": 21.0641
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 474,
+                "goals_added_for": 3.2824,
+                "num_actions_against": 477,
+                "goals_added_against": 3.5747
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 4819,
+                "goals_added_for": 3.9325,
+                "num_actions_against": 5112,
+                "goals_added_against": -0.0637
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 83,
+                "goals_added_for": 0.011,
+                "num_actions_against": 64,
+                "goals_added_against": -0.2796
+            }
+        ]
+    },
+    {
+        "team_id": "19vQ2095K6",
+        "minutes": 3450,
+        "data": [
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 11824,
+                "goals_added_for": 24.7732,
+                "num_actions_against": 12348,
+                "goals_added_against": 23.2066
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 400,
+                "goals_added_for": 9.7149,
+                "num_actions_against": 409,
+                "goals_added_against": 9.2383
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 471,
+                "goals_added_for": 2.8851,
+                "num_actions_against": 479,
+                "goals_added_against": 3.827
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5119,
+                "goals_added_for": -0.3862,
+                "num_actions_against": 5298,
+                "goals_added_against": 0.6505
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4465,
+                "goals_added_for": 20.0961,
+                "num_actions_against": 4573,
+                "goals_added_against": 22.5035
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 15922,
+                "goals_added_for": 3.9171,
+                "num_actions_against": 16204,
+                "goals_added_against": 7.656
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 42,
+                "goals_added_for": -0.2121,
+                "num_actions_against": 62,
+                "goals_added_against": 0.2341
+            }
+        ]
+    },
+    {
+        "team_id": "9z5k7Yg5A3",
+        "minutes": 3346,
+        "data": [
+            {
+                "action_type": "Passing",
+                "num_actions_for": 14596,
+                "goals_added_for": 3.7275,
+                "num_actions_against": 17311,
+                "goals_added_against": 4.5328
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 4739,
+                "goals_added_for": 0.0341,
+                "num_actions_against": 5650,
+                "goals_added_against": 1.6684
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4250,
+                "goals_added_for": 23.5405,
+                "num_actions_against": 4663,
+                "goals_added_against": 21.1754
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 441,
+                "goals_added_for": 1.8298,
+                "num_actions_against": 374,
+                "goals_added_against": 3.5493
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 381,
+                "goals_added_for": 9.2584,
+                "num_actions_against": 413,
+                "goals_added_against": 9.7116
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 10703,
+                "goals_added_for": 21.8207,
+                "num_actions_against": 13658,
+                "goals_added_against": 23.1116
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 52,
+                "goals_added_for": -0.3053,
+                "num_actions_against": 66,
+                "goals_added_against": -0.2406
+            }
+        ]
+    },
+    {
+        "team_id": "a2lqR4JMr0",
+        "minutes": 3364,
+        "data": [
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 11676,
+                "goals_added_for": 18.3955,
+                "num_actions_against": 10164,
+                "goals_added_against": 20.9716
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 4701,
+                "goals_added_for": 0.7643,
+                "num_actions_against": 4558,
+                "goals_added_against": 2.3663
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 480,
+                "goals_added_for": 3.5679,
+                "num_actions_against": 436,
+                "goals_added_against": 4.0057
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 373,
+                "goals_added_for": 8.5834,
+                "num_actions_against": 447,
+                "goals_added_against": 10.9756
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 15227,
+                "goals_added_for": 4.5676,
+                "num_actions_against": 13877,
+                "goals_added_against": 5.1722
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 56,
+                "goals_added_for": -0.256,
+                "num_actions_against": 51,
+                "goals_added_against": 0.1843
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4492,
+                "goals_added_for": 18.0232,
+                "num_actions_against": 4198,
+                "goals_added_against": 18.8522
+            }
+        ]
+    },
+    {
+        "team_id": "a2lqRX2Mr0",
+        "minutes": 3741,
+        "data": [
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 5638,
+                "goals_added_for": 25.1421,
+                "num_actions_against": 5384,
+                "goals_added_against": 29.951
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 14464,
+                "goals_added_for": 30.0418,
+                "num_actions_against": 10914,
+                "goals_added_against": 23.8879
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 19153,
+                "goals_added_for": 4.5676,
+                "num_actions_against": 15554,
+                "goals_added_against": 4.5796
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 6155,
+                "goals_added_for": 7.1889,
+                "num_actions_against": 5122,
+                "goals_added_against": -0.9229
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 536,
+                "goals_added_for": 4.652,
+                "num_actions_against": 481,
+                "goals_added_against": 2.6075
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 545,
+                "goals_added_for": 13.4354,
+                "num_actions_against": 443,
+                "goals_added_against": 9.7237
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 70,
+                "goals_added_for": 0.3413,
+                "num_actions_against": 69,
+                "goals_added_against": -0.2992
+            }
+        ]
+    },
+    {
+        "team_id": "APk5LGOMOW",
+        "minutes": 3691,
+        "data": [
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 67,
+                "goals_added_for": -0.0327,
+                "num_actions_against": 31,
+                "goals_added_against": -0.1937
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4825,
+                "goals_added_for": 27.2912,
+                "num_actions_against": 4753,
+                "goals_added_against": 17.8866
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 16406,
+                "goals_added_for": 5.7481,
+                "num_actions_against": 17805,
+                "goals_added_against": 5.2737
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 421,
+                "goals_added_for": 3.5342,
+                "num_actions_against": 454,
+                "goals_added_against": 4.4802
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5889,
+                "goals_added_for": 6.7013,
+                "num_actions_against": 5992,
+                "goals_added_against": 0.3402
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 486,
+                "goals_added_for": 11.0575,
+                "num_actions_against": 460,
+                "goals_added_against": 10.4693
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 12633,
+                "goals_added_for": 18.5511,
+                "num_actions_against": 13956,
+                "goals_added_against": 21.3472
+            }
+        ]
+    },
+    {
+        "team_id": "EKXMeX3Q64",
+        "minutes": 3641,
+        "data": [
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 407,
+                "goals_added_for": 9.4404,
+                "num_actions_against": 540,
+                "goals_added_against": 13.1334
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 12399,
+                "goals_added_for": 22.1903,
+                "num_actions_against": 13538,
+                "goals_added_against": 26.323
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4546,
+                "goals_added_for": 23.5005,
+                "num_actions_against": 4537,
+                "goals_added_against": 20.1055
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 72,
+                "goals_added_for": 0.0432,
+                "num_actions_against": 80,
+                "goals_added_against": -0.5111
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5181,
+                "goals_added_for": 2.3618,
+                "num_actions_against": 5485,
+                "goals_added_against": 3.8655
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 16624,
+                "goals_added_for": 5.4348,
+                "num_actions_against": 17850,
+                "goals_added_against": 6.0368
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 417,
+                "goals_added_for": 3.5356,
+                "num_actions_against": 513,
+                "goals_added_against": 2.461
+            }
+        ]
+    },
+    {
+        "team_id": "jYQJ19EqGR",
+        "minutes": 3689,
+        "data": [
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 463,
+                "goals_added_for": 2.2961,
+                "num_actions_against": 435,
+                "goals_added_against": 2.8453
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 58,
+                "goals_added_for": -0.3968,
+                "num_actions_against": 79,
+                "goals_added_against": 0.1605
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 19233,
+                "goals_added_for": 4.9786,
+                "num_actions_against": 17321,
+                "goals_added_against": 5.133
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5467,
+                "goals_added_for": 0.0766,
+                "num_actions_against": 5764,
+                "goals_added_against": 2.3252
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 14964,
+                "goals_added_for": 23.0739,
+                "num_actions_against": 13312,
+                "goals_added_against": 23.7325
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4573,
+                "goals_added_for": 22.7381,
+                "num_actions_against": 4760,
+                "goals_added_against": 22.263
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 364,
+                "goals_added_for": 9.4869,
+                "num_actions_against": 514,
+                "goals_added_against": 11.508
+            }
+        ]
+    },
+    {
+        "team_id": "jYQJ8EW5GR",
+        "minutes": 3337,
+        "data": [
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4225,
+                "goals_added_for": 20.5465,
+                "num_actions_against": 4362,
+                "goals_added_against": 25.1738
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 13442,
+                "goals_added_for": 20.8586,
+                "num_actions_against": 12707,
+                "goals_added_against": 17.8805
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 476,
+                "goals_added_for": 3.2713,
+                "num_actions_against": 467,
+                "goals_added_against": 3.7562
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5338,
+                "goals_added_for": -0.1981,
+                "num_actions_against": 5425,
+                "goals_added_against": 5.7914
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 43,
+                "goals_added_for": 0.1625,
+                "num_actions_against": 62,
+                "goals_added_against": 0.0713
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 382,
+                "goals_added_for": 8.5373,
+                "num_actions_against": 434,
+                "goals_added_against": 10.0015
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 16777,
+                "goals_added_for": 4.0967,
+                "num_actions_against": 16016,
+                "goals_added_against": 4.1522
+            }
+        ]
+    },
+    {
+        "team_id": "kaDQ0wRqEv",
+        "minutes": 3438,
+        "data": [
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4866,
+                "goals_added_for": 21.8959,
+                "num_actions_against": 4612,
+                "goals_added_against": 19.4164
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 71,
+                "goals_added_for": -0.1625,
+                "num_actions_against": 51,
+                "goals_added_against": -0.2107
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 16685,
+                "goals_added_for": 2.9925,
+                "num_actions_against": 15881,
+                "goals_added_against": 1.2126
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 410,
+                "goals_added_for": 3.0953,
+                "num_actions_against": 427,
+                "goals_added_against": 2.5308
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 421,
+                "goals_added_for": 9.9356,
+                "num_actions_against": 404,
+                "goals_added_against": 10.2057
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 12760,
+                "goals_added_for": 18.9053,
+                "num_actions_against": 11970,
+                "goals_added_against": 19.7155
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5293,
+                "goals_added_for": 4.6863,
+                "num_actions_against": 5091,
+                "goals_added_against": 4.9098
+            }
+        ]
+    },
+    {
+        "team_id": "kRQabn8MKZ",
+        "minutes": 3444,
+        "data": [
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 476,
+                "goals_added_for": 11.2328,
+                "num_actions_against": 427,
+                "goals_added_against": 9.6242
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 466,
+                "goals_added_for": 4.4847,
+                "num_actions_against": 439,
+                "goals_added_against": 3.5853
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 48,
+                "goals_added_for": 0.1133,
+                "num_actions_against": 46,
+                "goals_added_against": -0.0259
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4454,
+                "goals_added_for": 19.83,
+                "num_actions_against": 4454,
+                "goals_added_against": 26.1434
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 11759,
+                "goals_added_for": 24.7083,
+                "num_actions_against": 12212,
+                "goals_added_against": 19.8056
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5289,
+                "goals_added_for": 0.5783,
+                "num_actions_against": 5270,
+                "goals_added_against": 1.2596
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 15329,
+                "goals_added_for": 8.0322,
+                "num_actions_against": 16014,
+                "goals_added_against": 5.1374
+            }
+        ]
+    },
+    {
+        "team_id": "lgpMOvnQzy",
+        "minutes": 3560,
+        "data": [
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 26,
+                "goals_added_for": 0.1415,
+                "num_actions_against": 50,
+                "goals_added_against": 0.105
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 462,
+                "goals_added_for": 10.6641,
+                "num_actions_against": 411,
+                "goals_added_against": 9.5051
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4896,
+                "goals_added_for": 20.439,
+                "num_actions_against": 4766,
+                "goals_added_against": 22.759
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 15362,
+                "goals_added_for": 6.6014,
+                "num_actions_against": 17424,
+                "goals_added_against": 2.0294
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 467,
+                "goals_added_for": 2.7863,
+                "num_actions_against": 503,
+                "goals_added_against": 3.3954
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5506,
+                "goals_added_for": 2.806,
+                "num_actions_against": 5479,
+                "goals_added_against": 2.996
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 11385,
+                "goals_added_for": 20.688,
+                "num_actions_against": 13307,
+                "goals_added_against": 19.5819
+            }
+        ]
+    },
+    {
+        "team_id": "mKAqBBmqbg",
+        "minutes": 3787,
+        "data": [
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 458,
+                "goals_added_for": 11.0477,
+                "num_actions_against": 430,
+                "goals_added_against": 9.7149
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 473,
+                "goals_added_for": 3.3186,
+                "num_actions_against": 468,
+                "goals_added_against": 4.3573
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5472,
+                "goals_added_for": 5.1381,
+                "num_actions_against": 5922,
+                "goals_added_against": 1.9996
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 12183,
+                "goals_added_for": 22.8789,
+                "num_actions_against": 13020,
+                "goals_added_against": 23.1857
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 58,
+                "goals_added_for": 0.1166,
+                "num_actions_against": 62,
+                "goals_added_against": -0.0732
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 5306,
+                "goals_added_for": 25.218,
+                "num_actions_against": 4978,
+                "goals_added_against": 21.5754
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 16339,
+                "goals_added_for": 4.5346,
+                "num_actions_against": 17337,
+                "goals_added_against": 3.229
+            }
+        ]
+    },
+    {
+        "team_id": "mvzqoLZQap",
+        "minutes": 3890,
+        "data": [
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 15541,
+                "goals_added_for": 29.2606,
+                "num_actions_against": 13004,
+                "goals_added_against": 26.4727
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4854,
+                "goals_added_for": 27.193,
+                "num_actions_against": 5128,
+                "goals_added_against": 28.9298
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 74,
+                "goals_added_for": -0.4911,
+                "num_actions_against": 69,
+                "goals_added_against": 0.0372
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 440,
+                "goals_added_for": 2.8391,
+                "num_actions_against": 454,
+                "goals_added_against": 2.6872
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 19756,
+                "goals_added_for": 5.1232,
+                "num_actions_against": 17127,
+                "goals_added_against": 3.6871
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 524,
+                "goals_added_for": 12.9785,
+                "num_actions_against": 513,
+                "goals_added_against": 12.3634
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 6030,
+                "goals_added_for": 2.1593,
+                "num_actions_against": 5871,
+                "goals_added_against": 6.6754
+            }
+        ]
+    },
+    {
+        "team_id": "pzeQZ6xQKw",
+        "minutes": 3363,
+        "data": [
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 453,
+                "goals_added_for": 2.0695,
+                "num_actions_against": 506,
+                "goals_added_against": 2.5856
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 3997,
+                "goals_added_for": 17.1863,
+                "num_actions_against": 4322,
+                "goals_added_against": 18.064
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 417,
+                "goals_added_for": 8.9718,
+                "num_actions_against": 411,
+                "goals_added_against": 9.4741
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 4617,
+                "goals_added_for": 3.4582,
+                "num_actions_against": 5122,
+                "goals_added_against": 4.553
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 10756,
+                "goals_added_for": 17.1728,
+                "num_actions_against": 11082,
+                "goals_added_against": 18.2606
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 52,
+                "goals_added_for": 0.1908,
+                "num_actions_against": 81,
+                "goals_added_against": -0.3511
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 14886,
+                "goals_added_for": 3.6196,
+                "num_actions_against": 15040,
+                "goals_added_against": 4.0106
+            }
+        ]
+    },
+    {
+        "team_id": "Vj58weDM8n",
+        "minutes": 3355,
+        "data": [
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5267,
+                "goals_added_for": 3.7123,
+                "num_actions_against": 5046,
+                "goals_added_against": 6.7446
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 437,
+                "goals_added_for": 3.7339,
+                "num_actions_against": 452,
+                "goals_added_against": 3.2343
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 16489,
+                "goals_added_for": 2.5066,
+                "num_actions_against": 14702,
+                "goals_added_against": 6.772
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4651,
+                "goals_added_for": 23.4615,
+                "num_actions_against": 4659,
+                "goals_added_against": 23.0851
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 62,
+                "goals_added_for": -0.1521,
+                "num_actions_against": 31,
+                "goals_added_against": 0.2252
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 12758,
+                "goals_added_for": 20.1166,
+                "num_actions_against": 11006,
+                "goals_added_against": 25.0244
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 446,
+                "goals_added_for": 10.1792,
+                "num_actions_against": 504,
+                "goals_added_against": 12.8709
+            }
+        ]
+    },
+    {
+        "team_id": "WBLMvYAQxe",
+        "minutes": 4012,
+        "data": [
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 559,
+                "goals_added_for": 13.7326,
+                "num_actions_against": 469,
+                "goals_added_against": 10.4908
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 5075,
+                "goals_added_for": 27.3992,
+                "num_actions_against": 5496,
+                "goals_added_against": 25.6346
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 13496,
+                "goals_added_for": 27.5476,
+                "num_actions_against": 13373,
+                "goals_added_against": 23.8123
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 6503,
+                "goals_added_for": 6.9865,
+                "num_actions_against": 6109,
+                "goals_added_against": 3.1596
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 557,
+                "goals_added_for": 3.4201,
+                "num_actions_against": 518,
+                "goals_added_against": 2.9112
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 74,
+                "goals_added_for": -0.0945,
+                "num_actions_against": 72,
+                "goals_added_against": 0.0581
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 17829,
+                "goals_added_for": 4.3762,
+                "num_actions_against": 17711,
+                "goals_added_against": 3.1381
+            }
+        ]
+    },
+    {
+        "team_id": "X0Oq66zq6D",
+        "minutes": 3353,
+        "data": [
+            {
+                "action_type": "Passing",
+                "num_actions_for": 15310,
+                "goals_added_for": 4.2661,
+                "num_actions_against": 15993,
+                "goals_added_against": 4.1825
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 467,
+                "goals_added_for": 11.0843,
+                "num_actions_against": 395,
+                "goals_added_against": 10.3098
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 11623,
+                "goals_added_for": 17.9661,
+                "num_actions_against": 12183,
+                "goals_added_against": 21.5682
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 34,
+                "goals_added_for": -0.0112,
+                "num_actions_against": 51,
+                "goals_added_against": -0.31
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 470,
+                "goals_added_for": 3.6114,
+                "num_actions_against": 441,
+                "goals_added_against": 2.8025
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5164,
+                "goals_added_for": 6.4611,
+                "num_actions_against": 4793,
+                "goals_added_against": 5.206
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4283,
+                "goals_added_for": 17.4325,
+                "num_actions_against": 4317,
+                "goals_added_against": 19.5476
+            }
+        ]
+    },
+    {
+        "team_id": "YgOMngl5wN",
+        "minutes": 3336,
+        "data": [
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 84,
+                "goals_added_for": -0.1793,
+                "num_actions_against": 57,
+                "goals_added_against": 0.3228
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 443,
+                "goals_added_for": 3.0562,
+                "num_actions_against": 441,
+                "goals_added_against": 3.0725
+            },
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5146,
+                "goals_added_for": 3.4134,
+                "num_actions_against": 4754,
+                "goals_added_against": 4.2983
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 14288,
+                "goals_added_for": 3.2867,
+                "num_actions_against": 15065,
+                "goals_added_against": 4.7961
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 10615,
+                "goals_added_for": 17.7581,
+                "num_actions_against": 11282,
+                "goals_added_against": 19.7739
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 376,
+                "goals_added_for": 8.3734,
+                "num_actions_against": 374,
+                "goals_added_against": 9.4889
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4302,
+                "goals_added_for": 16.3832,
+                "num_actions_against": 4147,
+                "goals_added_against": 14.3827
+            }
+        ]
+    },
+    {
+        "team_id": "Z2vQ1xlqrA",
+        "minutes": 3534,
+        "data": [
+            {
+                "action_type": "Dribbling",
+                "num_actions_for": 5050,
+                "goals_added_for": 0.5871,
+                "num_actions_against": 4882,
+                "goals_added_against": 2.6385
+            },
+            {
+                "action_type": "Fouling",
+                "num_actions_for": 448,
+                "goals_added_for": 3.3834,
+                "num_actions_against": 478,
+                "goals_added_against": 2.3839
+            },
+            {
+                "action_type": "Interrupting",
+                "num_actions_for": 4975,
+                "goals_added_for": 16.6856,
+                "num_actions_against": 4608,
+                "goals_added_against": 20.0531
+            },
+            {
+                "action_type": "Passing",
+                "num_actions_for": 14941,
+                "goals_added_for": 5.8754,
+                "num_actions_against": 15130,
+                "goals_added_against": 5.1977
+            },
+            {
+                "action_type": "Claiming",
+                "num_actions_for": 60,
+                "goals_added_for": 0.0988,
+                "num_actions_against": 52,
+                "goals_added_against": 0.0219
+            },
+            {
+                "action_type": "Receiving",
+                "num_actions_for": 10870,
+                "goals_added_for": 23.0511,
+                "num_actions_against": 10920,
+                "goals_added_against": 20.47
+            },
+            {
+                "action_type": "Shooting",
+                "num_actions_for": 414,
+                "goals_added_for": 9.625,
+                "num_actions_against": 366,
+                "goals_added_against": 9.2498
+            }
+        ]
+    }
+]
